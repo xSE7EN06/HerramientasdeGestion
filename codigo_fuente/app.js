@@ -10,6 +10,13 @@ app.get('/', (req, res) => {
     });
 });
 
+app.get('/status', (req, res) => {
+    res.json({
+        estado: 'Activo',
+        timestamp: new Date()
+    });
+});
+
 const PORT = 3000;
 
 app.listen(PORT, () => {
