@@ -1,32 +1,18 @@
-"# HerramientasdeGestion" 
-# API de Gesti¢n para Procesos Bioalimentarios
+# HerramientasdeGestion
 
-API RESTful para la gesti¢n integral de usuarios, clientes, muestras y an lisis en sistemas de procesos bioalimentarios. Incluye autenticaci¢n JWT, documentaci¢n Swagger (OpenAPI 3.0) y estructura modular para f cil mantenimiento y escalabilidad.
+## Sistema de AutomatizaciÃ³n de Reportes Nutrimentales
 
----
+### DescripciÃ³n
+Sistema web para automatizar la generaciÃ³n de reportes nutrimentales a partir de archivos Excel.
 
-## ?? Tecnolog¡as y Requisitos
+### TecnologÃ­as
+- Angular
+- Node.js
+- PostgreSQL
+- GitHub
 
-- **Node.js** v14+
-- **PostgreSQL** v12+
-- **npm** v6+
+### Objetivo
+Reducir el tiempo de elaboraciÃ³n de reportes nutrimentales mediante la automatizaciÃ³n del proceso.
 
----
-
-## ?? Estructura de Carpetas
-
-```
-Api-Procesos-Bioalimentarios/
-ÃÄÄ app.js
-ÃÄÄ config/
-ÃÄÄ controllers/
-ÃÄÄ docs/
-ÃÄÄ middlewares/
-ÃÄÄ models/
-ÃÄÄ routes/
-ÃÄÄ services/
-ÃÄÄ templates/
-ÃÄÄ utils/
-ÃÄÄ package.json
-ÃÄÄ .env
-
+### Integrantes
+- Ãngel
